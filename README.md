@@ -1,5 +1,5 @@
 # Marketing Campaign Response Prediction Model
-[Dataset] | [Notebook](https://github.com/JoaoCA98/Campaign_Response/blob/main/Classification_Response_to_Marketing_Campaign.ipynb)
+[Dataset](https://github.com/JoaoCA98/Campaign_Response/blob/main/campaign.xlsx) | [Notebook](https://github.com/JoaoCA98/Campaign_Response/blob/main/Classification_Response_to_Marketing_Campaign.ipynb)
 ## Overview
 This project involves the development of a predictive model to assist the Marketing Department of a retail company in predicting customer responses to marketing campaigns. The primary objective is to enhance campaign efficiency by identifying customers likely to respond to marketing efforts based on data from previous campaigns.
 
